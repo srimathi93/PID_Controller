@@ -26,7 +26,7 @@ I did try to implement twiddle as a seperate script but I had issues compiling i
 
 Here is the final video of the drive.
 
-[./Mov1.mov](./Mov1.mov)
+[./mov.mov](./mov.mov)
 
 
 
